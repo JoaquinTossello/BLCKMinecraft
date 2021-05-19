@@ -6,7 +6,7 @@ Instrucciones:-
 
 2) Clickear el botón "Code" (botón verde)
 3) Descargar como .zip
-4) Descomprimir el archivo dentro de la carpeta AppData\Roaming\.minecraft\mods
+4) Descomprimir el archivo dentro de la carpeta AppData \ Roaming \ .minecraft \ mods
 
 IP: BLCKMinecraft.aternos.me
 
